@@ -1,6 +1,6 @@
 ---
 layout: workshop      # NO CAMBIAR ESTO 
-carpentry: "COMPLETAR"    # qué tipo de Carpentry (ya sea "lc", "dc" o "swc")
+carpentry: "dc"    # qué tipo de Carpentry (ya sea "lc", "dc" o "swc")
 venue: "COMPLETAR"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
 address: "COMPLETAR"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
 country: "COMPLETAR"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
